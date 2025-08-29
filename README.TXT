@@ -22,6 +22,6 @@ Q1: When get name is called, the source code provides the name from the code tha
 Q2: It relays the of studentsthat ar registered as students by the lab class.
 Q3: Some others are byte, Short, long, float, double, char, boolean.
 Q4: o is the value for byte, long, short, int
-Q5: Create a nw class
+Q5: Create a new class
 
 
